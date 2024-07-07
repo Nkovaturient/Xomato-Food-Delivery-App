@@ -10,7 +10,7 @@ export const storeContext = createContext(null);
 const storeContextProvider= (props)=>{
 
     const[cartItems, setCartItems]=useState({});
-    const url=`http://localhost:4000`;
+    const url=`https://xomato-food-delivery-app.onrender.com`; //http://localhost:4000
     const [token, setToken]=useState('')
     const [food_list, setFoodList]=useState([]); //to access from db
 
