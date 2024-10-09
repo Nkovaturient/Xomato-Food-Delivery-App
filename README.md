@@ -1,2 +1,2 @@
 ## Deploy status: success 🌇 🚀
-- Live: https://xomato-1x12.onrender.com/
+- Live: [Xomato](https://xomato-1x12.onrender.com/)
